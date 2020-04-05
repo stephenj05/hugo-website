@@ -1,4 +1,4 @@
-title = "John's Website (Under Development)"
+title = "My Website (Under Development)"
 baseURL = "/hugo-website"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
